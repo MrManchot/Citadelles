@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character>
+        <name>Assassin</name>
+        <color></color>
+        <turn>1</turn>
+    </character>
+    <character>
+        <name>Voleur</name>
+        <color></color>
+        <turn>2</turn>
+    </character>
+    <character>
+        <name>Magicien</name>
+        <color></color>
+        <turn>3</turn>
+    </character>
+    <character>
+        <name>Roi</name>
+        <color>yellow</color>
+        <turn>4</turn>
+    </character>
+    <character>
+        <name>Eveque</name>
+        <color></color>
+        <turn>5</turn>
+    </character>
+    <character>
+        <name>Marchand</name>
+        <color>green</color>
+        <turn>6</turn>
+    </character>
+    <character>
+        <name>Architecte</name>
+        <color></color>
+        <turn>7</turn>
+    </character>
+    <character>
+        <name>Condottiere</name>
+        <color>red</color>
+        <turn>8</turn>
+    </character>
+</characters>
