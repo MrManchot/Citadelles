@@ -49,7 +49,7 @@ class Game
         while (!$this->isVictory())
             $this->playTurn();
 
-        d($this->players);
+        dump($this->players);
 
     }
 

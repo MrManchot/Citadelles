@@ -19,10 +19,6 @@
                 include __DIR__.'/classes/' . $class . '.php';
             });
 
-            function d($v) {
-                \utilphp\util::var_dump($v);
-            }
-
             function trace($v) {
                 echo $v.'<br/>';
             }
